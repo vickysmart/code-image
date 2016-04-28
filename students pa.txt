@@ -1,0 +1,33 @@
+Code - Image :		Project:	Student's PA;
+======================================================================================================================================================================
+For The Students PA:	Tasks to do: Build a friendly interface that runs on mobile(Android) and web
+
+Components of that interface:	
+				Front Page for Students of a particular department
+				
+				
+=======================================================================================================================================================================
+For the Front Page:
+		
+Components of it:	Login Form
+			Registration Form
+			
+
+LOGIN FORM: 
+	The Login Form will have only two forms, one for the username and the other for the password and then it'll contain a login button which when clicked takes the user to his or her profile this will only work if the student has already registered and if the student is a class rep it takes him to a special page meant for class reps.
+ 
+	Note: This form will need to be validated so php will be needed for validation
+
+REGISTRATION FORM
+	The Registration form will not have too much fields, a full name with a password,reg no, faculty, department field will be needed because the informations are necessary After that the information will be submitted and stored in a database.
+
+	Note: 	Don't forget to add a submit button for the information to be submitted.
+		This form will need to be validated and so php will be needed for validation.
+
+This particular component then takes the student to the main page which will contain :
+											Timetable
+											Gp Calculator
+											Container for Results
+											Information container
+
+					
